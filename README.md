@@ -11,4 +11,4 @@ Universitat Oberta of Catalunya.
 Consultor: Jorge Segura Gisbert
 
 ## Dataset
-Se puede acceder a algunos datasets del trabajo en el enlace: https://github.com/santipe01/Pra2-TCVD/blob/main/data/embalses.csv
+Se puede acceder a algunos datasets del trabajo en el enlace: https://github.com/santipe01/TFM-Predicci-nPrecioViviendas/tree/main/data
