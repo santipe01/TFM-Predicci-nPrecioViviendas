@@ -5,10 +5,10 @@
 * Santiago Pérez Lete
 
 ## Acerca de este código
-Este código es parte del trabajo de fin de Máster
-Máster de Data Science.
-Universitat Oberta of Catalunya.
-Consultor: Jorge Segura Gisbert
+* Este código es parte del trabajo de fin de Máster
+* Máster de Data Science.
+* Universitat Oberta of Catalunya.
+* Consultor: Jorge Segura Gisbert
 
 ## Dataset
 Se puede acceder a algunos datasets del trabajo en el enlace: https://github.com/santipe01/TFM-Predicci-nPrecioViviendas/tree/main/data
